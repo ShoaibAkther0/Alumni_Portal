@@ -1,5 +1,5 @@
 # Alumni Portal-
-## Shaik shoaib akther and Team  ##
+## Shaik Shoaib Akther and Team  ##
 
 DEPLOYMENT INSTRUCTIONS:
 
