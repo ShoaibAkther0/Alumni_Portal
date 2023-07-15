@@ -26,4 +26,4 @@ NOTE: DO NOT ADD ANY DATA INTO "id" field while adding new faculty and password 
 Default Password for existing Faculty is same as their E-mail_id
 
 
-### For further technical assistance contact Project Group-I Shift-II ###
+### For further technical assistance contact Shaikshoaibakther0@gmail.com ###
